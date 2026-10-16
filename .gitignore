@@ -1,0 +1,15 @@
+# Publish only the public site; keep local faculty/release documents private.
+/*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/site.css
+!/privacy/
+!/support/
+!/assets/
+/privacy/*
+!/privacy/index.html
+/support/*
+!/support/index.html
+/assets/*
+!/assets/app-icon.png
